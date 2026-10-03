@@ -22,7 +22,7 @@ pip install pycryptodome
 Run the script with:
 
 ```bash
-python script.py
+python chrome_cred_extractor_script.py
 ```
 
 The program provides a menu for analyzing Chrome and DPAPI artifacts and decrypting Chrome login data.
