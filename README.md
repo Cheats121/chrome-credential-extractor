@@ -71,7 +71,3 @@ These projects were extremely helpful for building this tool.
 All credit for the original implementations and research belongs to these authors.
 
 Please refer to the original projects for their applicable licensing terms.
-
-## Author
-
-Cheats121
